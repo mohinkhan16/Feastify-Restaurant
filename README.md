@@ -39,13 +39,21 @@ Google Fonts → Typography
 
 🗃️ 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑫𝒊𝒓𝒆𝒄𝒕𝒐𝒓𝒚
 📦 Feastify
+
  ┣ 📜 index.html
+ 
  ┣ 📜 style.css
+ 
  ┣ 📁 Assets
+ 
  ┃ ┣ 🖼️ logo.png
+ 
  ┃ ┣ 🖼️ food images
+ 
  ┃ ┣ 🖼️ testimonial images
+ 
  ┃ ┗ 🖼️ background assets
+ 
  ┗ 📄 README.md
 
 🎨 𝑻𝒉𝒆𝒎𝒆 𝑪𝒐𝒏𝒇𝒊𝒈𝒖𝒓𝒂𝒕𝒊𝒐𝒏
