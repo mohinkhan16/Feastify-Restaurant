@@ -35,6 +35,7 @@ FontAwesome  → Icon Library
 Google Fonts → Typography
 
 📸 𝑾𝒆𝒃𝒔𝒊𝒕𝒆 𝑷𝒓𝒆𝒗𝒊𝒆𝒘:-
+<img width="1920" height="5988" alt="fest" src="https://github.com/user-attachments/assets/7716fccd-01cb-4b65-bcd3-36c0036dfb3d" />
 
 
 🗃️ 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑫𝒊𝒓𝒆𝒄𝒕𝒐𝒓𝒚
