@@ -60,9 +60,13 @@ Google Fonts → Typography
 
 Update primary design tokens from:-
 
-:root {
+:root 
+{
+
   --primary-color: #00c604;
+  
   --secondry-color: #151b20;
+  
 }
 
 📱 𝑹𝒆𝒔𝒑𝒐𝒏𝒔𝒊𝒗𝒆 𝑪𝒐𝒎𝒑𝒂𝒕𝒊𝒃𝒊𝒍𝒊𝒕𝒚
