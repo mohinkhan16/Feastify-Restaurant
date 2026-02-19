@@ -57,6 +57,7 @@ Google Fonts → Typography
  ┗ 📄 README.md
 
 🎨 𝑻𝒉𝒆𝒎𝒆 𝑪𝒐𝒏𝒇𝒊𝒈𝒖𝒓𝒂𝒕𝒊𝒐𝒏
+
 Update primary design tokens from:
 :root {
   --primary-color: #00c604;
@@ -67,8 +68,11 @@ Update primary design tokens from:
 Optimized for:
 
 📱 Mobile Devices
+
 📟 Tablets
+
 💻 Laptops
+
 🖥️ Desktop Screens
 
 🚀 𝑭𝒖𝒕𝒖𝒓𝒆 𝑺𝒄𝒂𝒍𝒂𝒃𝒊𝒍𝒊𝒕𝒚
