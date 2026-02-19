@@ -58,7 +58,8 @@ Google Fonts → Typography
 
 🎨 𝑻𝒉𝒆𝒎𝒆 𝑪𝒐𝒏𝒇𝒊𝒈𝒖𝒓𝒂𝒕𝒊𝒐𝒏
 
-Update primary design tokens from:
+Update primary design tokens from:-
+
 :root {
   --primary-color: #00c604;
   --secondry-color: #151b20;
